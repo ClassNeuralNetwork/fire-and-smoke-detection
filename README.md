@@ -1,3 +1,2 @@
 # fire-and-smoke-detection
-
-teste
+Using CNNs to detect fire
